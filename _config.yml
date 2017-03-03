@@ -4,12 +4,12 @@ title:            Site Title
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
-url: /jekyll-academic
+url: /dh-webpage-workshop
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Molly Godwin-Jones
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "Grad student."
   email: #emailaddress
   twitter: #username
   facebook: #username
